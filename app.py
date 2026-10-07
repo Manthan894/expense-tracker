@@ -4,7 +4,7 @@ from pathlib import Path
 st.set_page_config(page_title="Expense Tracker", page_icon="💰")
 
 st.title("💰 Expense Tracker")
-st.write("A simple expense tracker app for Android (college mini project).")
+st.write("A simple expense tracker app for Android")
 
 apk_path = Path("app-debug.apk")
 
